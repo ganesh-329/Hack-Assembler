@@ -20,9 +20,7 @@ The Hack assembler is a software tool that comprises a series of five questions 
 An assembler is a software program that converts simple computer instructions written in a human-readable programming language into a series of 1's and 0's, also known as binary code. This binary code is what a computer's processor can understand and use to execute the desired operations. The purpose of building an assembler for the Hack computer is to translate Hack Assembly code into its corresponding binary code, making it possible for the computer to execute the program.
 ## Intro to Hack Assembly
 
-The Hack Assembly Language is minimal, it mainly consists of 3 types of instructions. It ignores whitespace and allows programs to declare symbols with a single symbol declaration instruction. Symbols can either be labels or variables. It also allows the programmer to write comments in the source code, for example: `// this is a single line comment`.
-
-If you cannot contain your excitement then head over to the [tests](tests/) directory and check out the testing programs, **.asm** files contain programs written in the Hack Assembly Language, and **.hack** files contain their equivalent binary machine code programs (Hack Machine Language).
+The Hack Assembly Language is minimal, it mainly consists of 2 types of instructions. It ignores whitespace and allows programs to declare symbols with a single symbol declaration instruction. Symbols can either be labels or variables. It also allows the programmer to write comments in the source code, for example: `// this is a single line comment`.
 
 ### Predefined Symbols
 
