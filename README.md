@@ -3,6 +3,17 @@ Part of [nand2tetris](https://www.nand2tetris.org/) project 6.
 
 The Hack assembler is a software tool that comprises a series of five questions or steps. Each step is assigned a number between 1 and 5, and together they make up the entire assembler. 
 
+## Questions
+1. Write a program to read assembly program (.asm file) and print the same program to a new file by ignoring white space (_no_whitespace.asm).
+
+2. Write  a program  to  read  the  above  generated  no_whitespace.asm  file  and  identify  the  label symbols    and    variables.    Write    those    label    symbols    and    variables    to    another    file (symbolsandvariables.asm).
+
+3. Write a program to construct a Symbol table for the given .asm file and print it to another file (symboltable.asm).
+
+4. Write a program to convert a standalone A instruction into binary (generate .hack output file).
+
+5. Write a program to convert a standalone C instruction into binary (generate .hack output file)
+
 ## Contents
 
 - [Description](#description)
