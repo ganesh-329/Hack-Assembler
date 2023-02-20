@@ -23,9 +23,6 @@ The Hack assembler is a software tool that comprises a series of five questions 
     - [A-INSTRUCTIONS](#a-instructions)
     - [L-INSTRUCTIONS](#l-instructions)
     - [C-INSTRUCTIONS](#c-instructions)
-- [References](#references)
-  - [Computer Architecture](#computer-architecture)
-  - [C-Instructions Reference](#c-instructions-reference)
 
 ## Description
 
@@ -139,17 +136,3 @@ Examples:
 ##### Effects of a C-Instruction
 
 Performs a computation on the CPU (arithmetic or bit-wise logic) and stores it into a destination register or memory location, and then (optionally) JUMPS to an instruction memory location that is usually addressed by a value or a Symbol (label).
-
-## References
-
-*The following reference images are taken from the [nand2tetris Coursera MOOC](https://www.coursera.org/learn/build-a-computer).*
-
-### Computer Architecture
-
-![Computer Architecture](assets/computer_arch.png "Computer Architecture")
-
-![Computer Architecture Implementation](assets/computer_arch_impl.png "Computer Architecture")
-
-### C-Instructions Reference
-
-![C-Instructions Reference](assets/c_instructions_reference.png "C-Instructions Reference")
