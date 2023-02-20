@@ -1,5 +1,6 @@
 # Hack-Assembler
-Part of [nand2tetris](https://www.nand2tetris.org/) project 6
+Part of [nand2tetris](https://www.nand2tetris.org/) project 6.
+
 The Hack assembler is a software tool that comprises a series of five questions or steps. Each step is assigned a number between 1 and 5, and together they make up the entire assembler. 
 
 ## Contents
