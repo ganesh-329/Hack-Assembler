@@ -21,7 +21,6 @@ The Hack assembler is a software tool that comprises a series of five questions 
   - [Predefined Symbols](#predefined-symbols)
   - [Types of Instructions](#types-of-instructions)
     - [A-INSTRUCTIONS](#a-instructions)
-    - [L-INSTRUCTIONS](#l-instructions)
     - [C-INSTRUCTIONS](#c-instructions)
 
 ## Description
