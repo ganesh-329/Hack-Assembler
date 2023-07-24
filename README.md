@@ -12,7 +12,12 @@ The Hack assembler is a software tool that comprises a series of five questions 
 
 4. Write a program to convert a standalone A instruction into binary (generate .hack output file).
 
-5. Write a program to convert a standalone C instruction into binary (generate .hack output file)
+5. Write a program to convert a standalone C instruction into binary (generate .hack output file).
+
+6. Combine all the above program and write an assembler program which convert a “.asm” file 
+to binary hack file. [refer project 6 in the nand to tetris software)
+
+Note : Question 6 is for Java; The project was intended to do in java or python. It was a two phase project and during the java part only I combined the all the programs and created a **Hack Assembler**s
 
 ## Contents
 
